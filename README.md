@@ -39,7 +39,7 @@
 
 
 ```bash
-  cd Fiserv-industry-project
+  cd fiserv_industry_project_api
 ```
 Install dependencies with npm
 ```bash
