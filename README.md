@@ -14,15 +14,15 @@
 
 ## Authors
 
-- [TseDhondup](https://github.com/Tsedhondup)
+- [Bryce Borer](https://github.com/CanadianWall)
+- [Tsering Dhondup](https://github.com/Tsedhondup)
 - [Rozan Karimi](https://github.com/Tsedhondup)
-- [Bryc Borer](https://github.com/CanadianWall)
 - [Tony Sun](https://github.com/TonySMK)
 - [Albin Sony](https://github.com/albinsony95)
-- Anita
-- Matt
-- Aaron
-- Yumemi
+- Anita Ounalom
+- Matthew Lui-Tankersley
+- Aaron Slabysz
+- Yumemi Kinsella
 
 
 
