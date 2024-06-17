@@ -11,7 +11,7 @@ import statusBarLight from "./assets/images/StatusBarLight.png";
 function App() {
   return (
     <div className="App">
-      <img className="statasbar" src={statusBarLight} />
+      <img className="statusbar" src={statusBarLight} />
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<LandingPage />} />
